@@ -8,7 +8,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary style="text-align: center;"><h2 style="display: inline-block">Backend Developer in JavaScript (Node.js)</h2></summary>
+    <summary style="text-align: center;"><h2 style="display: inline-block">Node.js Backend Developer</h2></summary>
   </ul>
 </div>
 
@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,cpp,git,github,linux,md,mongodb,mysql,firebase,js,ts,nodejs,express,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,c,cpp,git,github,linux,md,mongodb,mysql,firebase,js,ts,nodejs,nextjs,express,postman,py,vscode&perline=14" />
   </a>
 </p>
 
