@@ -38,18 +38,22 @@
 
 ### 📚 Frameworks & Libraries
 - Node.js
+- Deno
 - Express.js
 - Fastify
 - Oak
 
 ### 🗄️ Databases & Cache
 - MongoDB
+- Firebase
 - Redis
 
 ### 🛠️ Tools & Platforms
 - Docker
 - Postman
 - Visual Studio Code
+- Github
+- Kali Linux
 
 ---
 
