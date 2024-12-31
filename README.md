@@ -32,24 +32,24 @@
 </div>
 
 ### 🛠️ Programming Languages
-- JavaScript
-- TypeScript
-- Python
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Languages" />
+</p>
 
 ### 📚 Frameworks & Libraries
-- Node.js
-- Express.js
-- Fastify
-- Oak
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,deno" alt="Frameworks & Libraries" />
+</p>
 
 ### 🗄️ Databases & Cache
-- MongoDB
-- Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis" alt="Databases & Cache" />
+</p>
 
 ### 🛠️ Tools & Platforms
-- Docker
-- Postman
-- Visual Studio Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,vscode,git,linux" alt="Tools & Platforms" />
+</p>
 
 ---
 
