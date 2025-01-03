@@ -1,106 +1,49 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary style="text-align: center;"><h1 style="display: inline-block">Hi there! 👋 I'm Usama Amjid</h1></summary>
-  </ul>
-</div>
+# Hi there, I'm Usama Amjid 👋
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary style="text-align: center;"><h2 style="display: inline-block">Node.js Backend Developer</h2></summary>
-  </ul>
-</div>
+## 🧑‍💻 About Me
+I'm a passionate Backend Developer with expertise in various programming languages, environments, and technologies. My primary skills revolve around backend development, and I have significant experience working with JavaScript, TypeScript and Python.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **scalable backend systems** using **Node.js, TypeScript, and Fastify**.
+## 🌐 Socials
+- X: [@usamaamjid](https://x.com/professor_usama?t=Vylf75AM1HsvWdAG6rpG3w&s=09)
+- GitHub: [usamaamjid](https://github.com/usamaamjid)
+- LinkedIn: [Usama Amjid](https://www.linkedin.com/in/professor-usama/)
+- Portfolio: [https://www.usamaamjid.com](https://usamaamjid.com)
+- Blog: [https://www.usamaamjid.com/blogs](https://usamaamjid.com/blogs)
 
-- 🌱 I’m exploring **advanced backend patterns**, **high-performance APIs**, and **real-time systems** with **Redis** and **Deno**.
+## 📺 YouTube Channels
+- Channel 1 (Blocked): [IT Knowledge](https://www.youtube.com/@ITKnowledge839)
+- Channel 2 (Active): [Usama Amjid](https://www.youtube.com/@usama-amjid)
 
-- 💬 Ask me about **Node.js**, **TypeScript**, **MongoDB**, **Redis**, or **backend architecture**.
+## 💻 Tech Stack
+### Programming Languages
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🚀 I'm passionate about building **high-performance, maintainable backends** and contributing to **open-source projects**.
-<!--Intro end-->
+### Runtime Environments
+- ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### Frameworks & Libraries
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+- ![Oak](https://img.shields.io/badge/Oak-000000?style=for-the-badge&logo=oak&logoColor=white)
+
+### Databases
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Additional Expertise
+- Worker Threads
+- Bull Queues
+- Microservices
+- Socket.io
+- Web Scraping
+
+## 📈 GitHub Stats
+![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamaamjid&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=radical)
 ---
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary style="text-align: center;"><h2 style="display: inline-block">Technologies & Tools 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-### 🛠️ Programming Languages
-- JavaScript
-- TypeScript
-- Python
-
-### 📚 Frameworks & Libraries
-- Node.js
-- Deno
-- Express.js
-- Fastify
-- Oak
-
-### 🗄️ Databases & Cache
-- MongoDB
-- Firebase
-- Redis
-
-### 🛠️ Tools & Platforms
-- Docker
-- Postman
-- Visual Studio Code
-- Github
-- Kali Linux
-
----
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=usamaamjid&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaamjid&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=usamaamjid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=usamaamjid&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- stats (end) -->
-
----
-
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary style="text-align: center;"><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/professor-usama/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/professor_usama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-</p>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=usamaamjid&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+Feel free to reach out to me through any of the social links provided above. Looking forward to connecting with you!
