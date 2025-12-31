@@ -2,7 +2,7 @@
 
 I'm **Usama Amjid**. I design and build the brains behind applications—backend systems engineered to stay reliable under real-world pressure. My work focuses on agentic AI architectures that turn LLMs into autonomous agents capable of decision-making, coordination, and execution at scale.
 
-[**🌐 My Portfolio**](https://usamaamjid.com) • [**Connect on LinkedIn**](https://www.linkedin.com/in/professor-usama/)
+[**🌐 My Portfolio**](https://usamaamjid.com) • [**Connect on LinkedIn**](https://linkedin.com/in/usama-amjid-backend-engineer/)
 
 ---
 
@@ -44,5 +44,5 @@ I'm **Usama Amjid**. I design and build the brains behind applications—backend
 
 ---
 <p align="center">
-  I'm always up for a chat about system design or new tech. Find me on <b><a href="https://www.linkedin.com/in/professor-usama/">LinkedIn</a></b>.
+  I'm always up for a chat about system design or new tech. Find me on <b><a href="https://linkedin.com/in/usama-amjid-backend-engineer/">LinkedIn</a></b>.
 </p>
