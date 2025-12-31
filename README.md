@@ -1,6 +1,6 @@
-# 🚀 Senior Backend Engineer | Node.js, AWS & AI Integration
+# Senior Backend Engineer | Node.js, AWS & AI Integration
 
-I'm **Usama Amjid**. I spend most of my time building the "brains" of applications—focusing on stable backend systems that don't break under pressure. Lately, I've been diving deep into **Agentic AI** and finding ways to make LLMs work reliably within distributed cloud environments.
+I'm **Usama Amjid**. I design and build the brains behind applications—backend systems engineered to stay reliable under real-world pressure. My work focuses on agentic AI architectures that turn LLMs into autonomous agents capable of decision-making, coordination, and execution at scale.
 
 [**🌐 My Portfolio**](https://usamaamjid.com) • [**Connect on LinkedIn**](https://www.linkedin.com/in/professor-usama/)
 
@@ -29,15 +29,15 @@ I'm **Usama Amjid**. I spend most of my time building the "brains" of applicatio
 
 ### 📊 Vital Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaamjid&show_icons=true&theme=dark&hide_border=false" alt="Usama's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usamaamjid&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=dark" />
 </p>
+
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Recent Focus
 - 🤖 **Agentic AI:** Creating self-improving AI agents for automated decision making.
 - ☁️ **Event-Driven Systems:** Architecting scalable message pipelines on AWS.
 - 🚀 **Automation:** Building high-speed web scrapers that run across distributed nodes.
