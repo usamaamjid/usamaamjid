@@ -29,7 +29,7 @@ I'm **Usama Amjid**. I design and build the brains behind applications—backend
 
 ### 📊 Vital Statistics
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usamaamjid&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=dark" />
 </p>
