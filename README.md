@@ -1,49 +1,47 @@
-# Hi there, I'm Usama Amjid 👋
+# 🚀 Backend Architect | Cloud & AI Enthusiast
 
-## 🧑‍💻 About Me
-I'm a passionate Backend Developer with expertise in various programming languages, environments, and technologies. My primary skills revolve around backend development, and I have significant experience working with JavaScript, TypeScript and Python.
+I'm **Usama Amjid**, a Backend Developer focused on building scalable, distributed systems. Currently, I am specializing in **Event-Driven Architectures** and **Agentic AI** to create intelligent, high-performance applications.
 
-## 🌐 Socials
-- X: [@usamaamjid](https://x.com/professor_usama?t=Vylf75AM1HsvWdAG6rpG3w&s=09)
-- GitHub: [usamaamjid](https://github.com/usamaamjid)
-- LinkedIn: [Usama Amjid](https://www.linkedin.com/in/professor-usama/)
-- Portfolio: [https://www.usamaamjid.com](https://usamaamjid.com)
-- Blog: [https://www.usamaamjid.com/blogs](https://usamaamjid.com/blogs)
+[**🌐 Portfolio**](https://usamaamjid.com) • [**LinkedIn**](https://www.linkedin.com/in/professor-usama/)
 
-## 📺 YouTube Channels
-- Channel 1 (Blocked): [IT Knowledge](https://www.youtube.com/@ITKnowledge839)
-- Channel 2 (Active): [Usama Amjid](https://www.youtube.com/@usama-amjid)
-
-## 💻 Tech Stack
-### Programming Languages
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Runtime Environments
-- ![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frameworks & Libraries
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-- ![Oak](https://img.shields.io/badge/Oak-000000?style=for-the-badge&logo=oak&logoColor=white)
-
-### Databases
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Additional Expertise
-- Worker Threads
-- Bull Queues
-- Microservices
-- Socket.io
-- Web Scraping
-
-## 📈 GitHub Stats
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamaamjid&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=radical)
 ---
-Feel free to reach out to me through any of the social links provided above. Looking forward to connecting with you!
+
+### 🛠️ Specialized Expertise
+
+* **Cloud & Infrastructure:** Architecting reliable systems using **AWS SQS** and **SNS** for decoupled microservices.
+* **Agentic AI:** Developing autonomous AI workflows and integrating LLMs into backend pipelines.
+* **Performance Engineering:** Expert in **Worker Threads**, **Bull Queues**, and **Redis** for heavy lifting and background processing.
+* **Real-time Systems:** Building low-latency communication layers with **Socket.io**.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Runtimes** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=white) |
+| **Frameworks** | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **Cloud/Messaging**| ![AWS](https://img.shields.io/badge/-AWS_SQS%2FSNS-232F3E?logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+
+---
+
+### 📊 Vital Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamaamjid&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Usama's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+### 🔭 Recent Focus
+- 🤖 **Agentic AI:** Implementing LangChain and custom agent frameworks.
+- ☁️ **Serverless:** Optimizing AWS Lambda triggers via SQS/SNS.
+- 🕸️ **Advanced Scraping:** Scalable data extraction using distributed queues.
+
+---
+<p align="center">
+  Let's build something scalable. Reach out via <b><a href="https://www.linkedin.com/in/professor-usama/">LinkedIn</a></b>.
+</p>
