@@ -1,4 +1,4 @@
-# Senior Backend Engineer | Node.js, AWS & AI Integration
+# Backend Engineer | Node.js, AWS & AI Integration
 
 I'm **Usama Amjid**. I design and build the brains behind applications—backend systems engineered to stay reliable under real-world pressure. My work focuses on agentic AI architectures that turn LLMs into autonomous agents capable of decision-making, coordination, and execution at scale.
 
