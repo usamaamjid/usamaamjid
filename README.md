@@ -1,11 +1,11 @@
-<!-- ====================== HEADER BANNER ====================== -->
+<!-- ====================== HERO BANNER (self-hosted, never rate-limited) ====================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Usama%20Amjid&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="header banner" />
+<img width="100%" src="https://raw.githubusercontent.com/usamaamjid/usamaamjid/main/assets/hero.svg" alt="Usama Amjid — Backend & Distributed Systems Engineer" />
 
 <!-- ====================== TYPING SUBTITLE ====================== -->
 <a href="https://www.usamaamjid.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I+build+the+brains+behind+applications;APIs+%E2%80%A2+Payments+%E2%80%A2+Real-time+%E2%80%A2+Background+Jobs;Fintech+%E2%80%A2+Marketplaces+%E2%80%A2+Agentic+AI;Engineered+to+stay+reliable+under+real-world+pressure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=I+build+the+brains+behind+applications;APIs+%E2%80%A2+Payments+%E2%80%A2+Real-time+%E2%80%A2+Background+Jobs;Fintech+%E2%80%A2+Marketplaces+%E2%80%A2+Agentic+AI;Engineered+to+stay+reliable+under+real-world+pressure" alt="Typing SVG" />
 </a>
 
 <!-- ====================== SOCIAL BADGES ====================== -->
@@ -39,6 +39,19 @@ const usama: Engineer = {
 - 🤖 I turn LLMs into **autonomous agents** capable of decision-making, coordination, and execution
 - 🧩 Full-stack when it counts — I ship features **end-to-end**, backend to frontend to docs
 - 📫 Reach me at **usama@usamaamjid.com**
+
+<br/>
+
+<!-- ====================== SIGNATURE: LIVE DISTRIBUTED SYSTEM (one-of-a-kind) ====================== -->
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> How I Think — A Request's Lifecycle
+
+> A custom animation of the kind of system I build every day. Watch a request stream through the gateway, get authenticated, hit the queue, and get worked off against the database — then flow back as a response.
+
+<div align="center">
+
+<img width="90%" src="https://raw.githubusercontent.com/usamaamjid/usamaamjid/main/assets/system.svg" alt="Live distributed system — request lifecycle animation" />
+
+</div>
 
 <br/>
 
@@ -101,21 +114,17 @@ const usama: Engineer = {
 
 <br/>
 
-<!-- ====================== GITHUB STATS ====================== -->
+<!-- ====================== GITHUB ANALYTICS (self-generated + working live cards) ====================== -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usamaamjid&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaamjid&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaamjid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top languages" />
+<img height="195em" src="https://raw.githubusercontent.com/usamaamjid/usamaamjid/main/assets/metrics.svg" alt="GitHub metrics (self-generated)" />
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=usamaamjid&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 
 <br/><br/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=usamaamjid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=usamaamjid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
@@ -180,26 +189,12 @@ const usama: Engineer = {
   <a href="https://www.usamaamjid.com/"><img src="https://img.shields.io/badge/See%20more%20on%20my%20portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </div>
 
-<br/>
-
-<!-- ====================== CONTRIBUTION SNAKE ====================== -->
-## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usamaamjid/usamaamjid/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usamaamjid/usamaamjid/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/usamaamjid/usamaamjid/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 <!-- ====================== FOOTER ====================== -->
+<br/>
 <div align="center">
 
-### 💬 Let's build something reliable together.
+**💬 Let's build something reliable together.**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<sub>Backend & Distributed Systems · Fintech · Agentic AI — <a href="https://www.usamaamjid.com/">usamaamjid.com</a></sub>
 
 </div>
