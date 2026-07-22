@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" fill="none" role="img" aria-label="Live distributed system — request lifecycle animation">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1420"/>
+      <stop offset="100%" stop-color="#0b2531"/>
+    </linearGradient>
+    <radialGradient id="pkt" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#bdeaff"/>
+      <stop offset="60%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="resp" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c7ffe6"/>
+      <stop offset="60%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0 0 L6 3 L0 6 Z" fill="#2f6b8a"/>
+    </marker>
+    <filter id="sglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .lbl  { font-family:'JetBrains Mono','Consolas',monospace; font-size:14px; font-weight:700; fill:#e6edf3; }
+      .sub  { font-family:'JetBrains Mono','Consolas',monospace; font-size:10px; fill:#6b8ba4; }
+      .cap  { font-family:'JetBrains Mono','Consolas',monospace; font-size:13px; fill:#36BCF7; }
+      .node { fill:#0d1b2a; stroke:#21506b; stroke-width:1.5; }
+    </style>
+  </defs>
+
+  <rect width="900" height="300" rx="16" fill="url(#sbg)"/>
+
+  <!-- caption -->
+  <text x="30" y="42" class="cap">// live system — request lifecycle</text>
+  <rect x="285" y="32" width="9" height="14" fill="#36BCF7">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- connectors (request path) -->
+  <g stroke="#2f6b8a" stroke-width="2" marker-end="url(#arrow)">
+    <line x1="150" y1="185" x2="192" y2="185"/>
+    <line x1="330" y1="185" x2="372" y2="185"/>
+    <line x1="510" y1="185" x2="552" y2="185"/>
+    <line x1="690" y1="185" x2="732" y2="185"/>
+  </g>
+  <!-- auth branch -->
+  <line x1="265" y1="157" x2="265" y2="112" stroke="#2f6b8a" stroke-width="2" marker-end="url(#arrow)"/>
+  <!-- response path -->
+  <path id="respPath" d="M800 213 C 620 288, 265 288, 85 213" stroke="#276b52" stroke-width="1.5" stroke-dasharray="4 4" fill="none"/>
+
+  <!-- nodes -->
+  <g>
+    <!-- Auth -->
+    <rect class="node" x="210" y="66" width="110" height="44" rx="10">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="265" y="86" text-anchor="middle" class="lbl">Auth</text>
+    <text x="265" y="100" text-anchor="middle" class="sub">verify · JWT</text>
+
+    <!-- Client -->
+    <rect class="node" x="20" y="157" width="130" height="56" rx="12">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="85" y="182" text-anchor="middle" class="lbl">Client</text>
+    <text x="85" y="198" text-anchor="middle" class="sub">request</text>
+
+    <!-- API Gateway -->
+    <rect class="node" x="200" y="157" width="130" height="56" rx="12">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="265" y="182" text-anchor="middle" class="lbl">API Gateway</text>
+    <text x="265" y="198" text-anchor="middle" class="sub">Express · Fastify</text>
+
+    <!-- Queue -->
+    <rect class="node" x="380" y="157" width="130" height="56" rx="12">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="445" y="182" text-anchor="middle" class="lbl">Queue</text>
+    <text x="445" y="198" text-anchor="middle" class="sub">BullMQ · SQS</text>
+
+    <!-- Worker -->
+    <rect class="node" x="560" y="157" width="130" height="56" rx="12">
+      <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="625" y="182" text-anchor="middle" class="lbl">Worker</text>
+    <text x="625" y="198" text-anchor="middle" class="sub">async jobs</text>
+
+    <!-- Database -->
+    <rect class="node" x="740" y="157" width="130" height="56" rx="12">
+      <animate attributeName="stroke-opacity" values="1;0.5;1" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="805" y="182" text-anchor="middle" class="lbl">Database</text>
+    <text x="805" y="198" text-anchor="middle" class="sub">Mongo · Postgres</text>
+  </g>
+
+  <!-- request packets: a streaming flow left to right at y=185 -->
+  <g filter="url(#sglow)">
+    <circle r="6" fill="url(#pkt)">
+      <animateMotion path="M85 185 H805" dur="4s" begin="0s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"/>
+    </circle>
+    <circle r="6" fill="url(#pkt)">
+      <animateMotion path="M85 185 H805" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="url(#pkt)">
+      <animateMotion path="M85 185 H805" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="url(#pkt)">
+      <animateMotion path="M85 185 H805" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- auth validation packet: up to Auth and back -->
+    <circle r="5" fill="url(#pkt)">
+      <animateMotion path="M265 157 V112 V157" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- response packet: database back to client (green) -->
+    <circle r="6" fill="url(#resp)">
+      <animateMotion dur="4s" begin="2.2s" repeatCount="indefinite">
+        <mpath href="#respPath"/>
+      </animateMotion>
+    </circle>
+    <circle r="6" fill="url(#resp)">
+      <animateMotion dur="4s" begin="4.2s" repeatCount="indefinite">
+        <mpath href="#respPath"/>
+      </animateMotion>
+    </circle>
+  </g>
+
+  <!-- footer stat line -->
+  <text x="30" y="272" class="sub">status: <tspan fill="#34d399">200 OK</tspan>  ·  p99 &lt; 40ms  ·  idempotent  ·  built for failure</text>
+</svg>
